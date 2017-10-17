@@ -1,0 +1,12 @@
+{
+  "name": "simple.extract",
+  "version": "1.0.0",
+  "description":
+    "Unzip/Extract .zip .gz .bz2 .tar .tar.gz tar.bz2 .tgz .tgz archives with promise.",
+  "main": "index.js",
+  "author": "Phoenix Song <github.com/azusa0127>",
+  "license": "MIT",
+  "dependencies": {
+    "inly": "^1.2.3"
+  }
+}
