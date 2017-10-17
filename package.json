@@ -8,5 +8,13 @@
   "license": "MIT",
   "dependencies": {
     "inly": "^1.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azusa0127/simple.extract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azusa0127/simple.extract/issues"
+  },
+  "homepage": "https://github.com/azusa0127/simple.extract#readme"
 }
